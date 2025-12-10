@@ -1,0 +1,6 @@
+{
+    "entryPoint": "https://bangate.fasttransfer.pro",
+    "partnerCode": "c11",
+    "partnerKey": "60725055be4545d000eddd4aa98888",
+    "callbackUrl": "https://api.78968.site/api/payment/fastpay/callback"
+}

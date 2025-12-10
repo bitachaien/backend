@@ -1,0 +1,353 @@
+{
+    "vip1": {
+        "valid_bet_require": 30000,
+        "deposit_require": 1,
+        "coin_reward": 18,
+        "coin_monthly": 0
+    },
+    "vip2": {
+        "valid_bet_require": 100000,
+        "deposit_require": 100,
+        "coin_reward": 38,
+        "coin_monthly": 0
+    },
+    "vip3": {
+        "valid_bet_require": 200000,
+        "deposit_require": 1000,
+        "coin_reward": 58,
+        "coin_monthly": 8
+    },
+    "vip4": {
+        "valid_bet_require": 400000,
+        "deposit_require": 3000,
+        "coin_reward": 78,
+        "coin_monthly": 16
+    },
+    "vip5": {
+        "valid_bet_require": 700000,
+        "deposit_require": 10000,
+        "coin_reward": 118,
+        "coin_monthly": 26
+    },
+    "vip6": {
+        "valid_bet_require": 1000000,
+        "deposit_require": 20000,
+        "coin_reward": 138,
+        "coin_monthly": 36
+    },
+    "vip7": {
+        "valid_bet_require": 1500000,
+        "deposit_require": 30000,
+        "coin_reward": 168,
+        "coin_monthly": 48
+    },"vip8": {
+        "valid_bet_require": 2000000,
+        "deposit_require": 40000,
+        "coin_reward": 188,
+        "coin_monthly": 60
+    },"vip9": {
+        "valid_bet_require": 2800000,
+        "deposit_require": 60000,
+        "coin_reward": 268,
+        "coin_monthly": 88
+    },"vip10": {
+        "valid_bet_require": 3800000,
+        "deposit_require": 70000,
+        "coin_reward": 338,
+        "coin_monthly": 118
+    },"vip11": {
+        "valid_bet_require": 5000000,
+        "deposit_require": 80000,
+        "coin_reward": 388,
+        "coin_monthly": 148
+    },"vip12": {
+        "valid_bet_require": 6500000,
+        "deposit_require": 100000,
+        "coin_reward": 518,
+        "coin_monthly": 198
+    },"vip13": {
+        "valid_bet_require": 8500000,
+        "deposit_require": 120000,
+        "coin_reward": 628,
+        "coin_monthly": 258
+    },"vip14": {
+        "valid_bet_require": 11000000,
+        "deposit_require": 150000,
+        "coin_reward": 758,
+        "coin_monthly": 328
+    },"vip15": {
+        "valid_bet_require": 13800000,
+        "deposit_require": 200000,
+        "coin_reward": 828,
+        "coin_monthly": 418
+    },"vip16": {
+        "valid_bet_require": 16800000,
+        "deposit_require": 250000,
+        "coin_reward": 988,
+        "coin_monthly": 508
+    },
+    "vip17": {
+        "valid_bet_require": 20000000,
+        "deposit_require": 300000,
+        "coin_reward": 1088,
+        "coin_monthly": 600
+    },
+    "vip18": {
+        "valid_bet_require": 23800000,
+        "deposit_require": 350000,
+        "coin_reward": 1228,
+        "coin_monthly": 718
+    },
+    "vip19": {
+        "valid_bet_require": 27800000,
+        "deposit_require": 400000,
+        "coin_reward": 1368,
+        "coin_monthly": 828
+    },
+    "vip20": {
+        "valid_bet_require": 32000000,
+        "deposit_require": 500000,
+        "coin_reward": 1528,
+        "coin_monthly": 958
+    },
+    "vip21": {
+        "valid_bet_require": 36800000,
+        "deposit_require": 600000,
+        "coin_reward": 1688,
+        "coin_monthly": 1058
+    },
+    "vip22": {
+        "valid_bet_require": 42000000,
+        "deposit_require": 700000,
+        "coin_reward": 1888,
+        "coin_monthly": 1288
+    },
+    "vip23": {
+        "valid_bet_require": 47800000,
+        "deposit_require": 800000,
+        "coin_reward": 2088,
+        "coin_monthly": 1388
+    },
+    "vip24": {
+        "valid_bet_require": 54000000,
+        "deposit_require": 900000,
+        "coin_reward": 2228,
+        "coin_monthly": 1588
+    },
+    "vip25": {
+        "valid_bet_require": 60800000,
+        "deposit_require": 1000000,
+        "coin_reward": 2458,
+        "coin_monthly": 1888
+    },
+    "vip26": {
+        "valid_bet_require": 68800000,
+        "deposit_require": 1100000,
+        "coin_reward": 2688,
+        "coin_monthly": 2088
+    },
+    "vip27": {
+        "valid_bet_require": 77300000,
+        "deposit_require": 1200000,
+        "coin_reward": 2888,
+        "coin_monthly": 2288
+    },
+    "vip28": {
+        "valid_bet_require": 86800000,
+        "deposit_require": 1300000,
+        "coin_reward": 3188,
+        "coin_monthly": 2588
+    },
+    "vip29": {
+        "valid_bet_require": 98800000,
+        "deposit_require": 1400000,
+        "coin_reward": 3888,
+        "coin_monthly": 2888
+    },
+    "vip30": {
+        "valid_bet_require": 112800000,
+        "deposit_require": 1500000,
+        "coin_reward": 4588,
+        "coin_monthly": 3388
+    },
+    "vip31": {
+        "valid_bet_require": 128800000,
+        "deposit_require": 1600000,
+        "coin_reward": 5288,
+        "coin_monthly": 3888
+    },
+    "vip32": {
+        "valid_bet_require": 148800000,
+        "deposit_require": 1700000,
+        "coin_reward": 6688,
+        "coin_monthly": 4388
+    },
+    "vip33": {
+        "valid_bet_require": 178800000,
+        "deposit_require": 1800000,
+        "coin_reward": 8188,
+        "coin_monthly": 5388
+    },
+    "vip34": {
+        "valid_bet_require": 218800000,
+        "deposit_require": 1900000,
+        "coin_reward": 9888,
+        "coin_monthly": 6588
+    },
+    "vip35": {
+        "valid_bet_require": 268800000,
+        "deposit_require": 2000000,
+        "coin_reward": 11888,
+        "coin_monthly": 8088
+    },
+    "vip36": {
+        "valid_bet_require": 328800000,
+        "deposit_require": 2200000,
+        "coin_reward": 13888,
+        "coin_monthly": 9888
+    },
+    "vip37": {
+        "valid_bet_require": 398800000,
+        "deposit_require": 2400000,
+        "coin_reward": 15888,
+        "coin_monthly": 11888
+    },
+    "vip38": {
+        "valid_bet_require": 478800000,
+        "deposit_require": 2600000,
+        "coin_reward": 18888,
+        "coin_monthly": 14388
+    },
+    "vip39": {
+        "valid_bet_require": 568800000,
+        "deposit_require": 2800000,
+        "coin_reward": 21888,
+        "coin_monthly": 16888
+    },
+    "vip40": {
+        "valid_bet_require": 678800000,
+        "deposit_require": 3000000,
+        "coin_reward": 25888,
+        "coin_monthly": 20888
+    },
+    "vip41": {
+        "valid_bet_require": 798800000,
+        "deposit_require": 3200000,
+        "coin_reward": 28888,
+        "coin_monthly": 23888
+    },
+    "vip42": {
+        "valid_bet_require": 968800000,
+        "deposit_require": 3400000,
+        "coin_reward": 35888,
+        "coin_monthly": 28888
+    },
+    "vip43": {
+        "valid_bet_require": 1158800000,
+        "deposit_require": 3600000,
+        "coin_reward": 42888,
+        "coin_monthly": 33888
+    },
+    "vip44": {
+        "valid_bet_require": 1388800000,
+        "deposit_require": 3800000,
+        "coin_reward": 48888,
+        "coin_monthly": 41888
+    },
+    "vip45": {
+        "valid_bet_require": 1628800000,
+        "deposit_require": 4000000,
+        "coin_reward": 56888,
+        "coin_monthly": 48888
+    },
+    "vip46": {
+        "valid_bet_require": 1888800000,
+        "deposit_require": 4200000,
+        "coin_reward": 66888,
+        "coin_monthly": 56888
+    },
+    "vip47": {
+        "valid_bet_require": 2228800000,
+        "deposit_require": 4400000,
+        "coin_reward": 77888,
+        "coin_monthly": 66888
+    },
+    "vip48": {
+        "valid_bet_require": 2588800000,
+        "deposit_require": 4600000,
+        "coin_reward": 88888,
+        "coin_monthly": 77888
+    },
+    "vip49": {
+        "valid_bet_require": 2988800000,
+        "deposit_require": 4800000,
+        "coin_reward": 98888,
+        "coin_monthly": 88888
+    },
+    "vip50": {
+        "valid_bet_require": 3418800000,
+        "deposit_require": 5000000,
+        "coin_reward": 108888,
+        "coin_monthly": 102888
+    },
+    "vip51": {
+        "valid_bet_require": 3888800000,
+        "deposit_require": 5200000,
+        "coin_reward": 118888,
+        "coin_monthly": 116888
+    },
+    "vip52": {
+        "valid_bet_require": 4388800000,
+        "deposit_require": 5400000,
+        "coin_reward": 128888,
+        "coin_monthly": 128888
+    },
+    "vip53": {
+        "valid_bet_require": 4928800000,
+        "deposit_require": 5600000,
+        "coin_reward": 138888,
+        "coin_monthly": 138888
+    },
+    "vip54": {
+        "valid_bet_require": 5488800000,
+        "deposit_require": 5800000,
+        "coin_reward": 158888,
+        "coin_monthly": 158888
+    },
+    "vip55": {
+        "valid_bet_require": 6088800000,
+        "deposit_require": 6000000,
+        "coin_reward": 168888,
+        "coin_monthly": 168888
+    },
+    "vip56": {
+        "valid_bet_require": 6738800000,
+        "deposit_require": 6500000,
+        "coin_reward": 178888,
+        "coin_monthly": 178888
+    },
+    "vip57": {
+        "valid_bet_require": 7428800000,
+        "deposit_require": 7000000,
+        "coin_reward": 188888,
+        "coin_monthly": 188888
+    },
+    "vip58": {
+        "valid_bet_require": 8188800000,
+        "deposit_require": 8000000,
+        "coin_reward": 228888,
+        "coin_monthly": 208888
+    },
+    "vip59": {
+        "valid_bet_require": 8988800000,
+        "deposit_require": 9000000,
+        "coin_reward": 288888,
+        "coin_monthly": 238888
+    },
+    "vip60": {
+        "valid_bet_require": 9888800000,
+        "deposit_require": 10000000,
+        "coin_reward": 388888,
+        "coin_monthly": 288888
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "entryPoint": "https://apicard.fasttransfer.pro/VPGJsonService.ashx",
+    "partnerCode": "c11",
+    "partnerKey": "60725055be4545d000eddd4aa98888",
+    "serviceCode": "cardtelco",
+    "commandCode": "usecard",
+    "accountName": "FASTPAY_CARD",
+    "callback_url": "https://api.78968.site/entry/callback/rechargeCard",
+    "amounts": [
+        10000,
+        20000,
+        30000,
+        50000,
+        100000,
+        200000,
+        300000,
+        500000
+    ]
+}

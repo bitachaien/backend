@@ -1,0 +1,8 @@
+
+
+
+# Generate Seeds
+npx sequelize-cli seed:generate --name seed-app-role-permission
+
+# Run All Seeds
+npx sequelize-cli db:seed:all

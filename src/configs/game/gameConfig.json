@@ -1,0 +1,184 @@
+{
+  "AB": {
+    "config": "API_1",
+    "type": 28,
+    "game": "XXXXXX",
+    "name": "AB Casino",
+    "mode": 1
+  },
+  "AG": {
+    "config": "API_1",
+    "type": 4,
+    "game": "XXXXXX",
+    "name": "AG Casino",
+    "mode": 1
+  },
+  "BB": {
+    "config": "API_1",
+    "type": 79,
+    "game": "XXXXXX",
+    "name": "BB Nổ Hũ",
+    "mode": 1
+  },
+  "CMD": {
+    "config": "API_1",
+    "type": 104,
+    "game": "XXXXXX",
+    "name": "CMD Thể Thao",
+    "mode": 1
+  },
+  "CQ9": {
+    "config": "API_1",
+    "type": 16,
+    "game": "XXXXXX",
+    "name": "CQ9 Nổ hũ, Bắn Cá",
+    "mode": 1
+  },
+  "DG": {
+    "config": "API_1",
+    "type": 27,
+    "game": "XXXXXX",
+    "name": "DG Casino",
+    "mode": 1
+  },
+  "EG": {
+    "config": "API_1",
+    "type": 86,
+    "game": "XXXXXX",
+    "name": "EVO Casino",
+    "mode": 1
+  },
+  "FB": {
+    "config": "API_1",
+    "type": 142,
+    "game": "XXXXXX",
+    "name": "FB Nổ Hũ",
+    "mode": 1
+  },
+  "IMES": {
+    "config": "API_1",
+    "type": 61,
+    "game": "XXXXXX",
+    "name": "IMES Nổ Hũ",
+    "mode": 1
+  },
+  "JDB": {
+    "config": "API_1",
+    "type": 55,
+    "game": "XXXXXX",
+    "name": "JDB Nổ hũ, Bắn Cá",
+    "mode": 1
+  },
+  "JL": {
+    "config": "API_1",
+    "type": 140,
+    "game": "XXXXXX",
+    "name": "JL Nổ hũ, Bắn Cá",
+    "mode": 1
+  },
+  "KM": {
+    "config": "API_1",
+    "type": 121,
+    "game": "XXXXXX",
+    "name": "KM Game bài",
+    "mode": 1
+  },
+  "KP": {
+    "config": "API_1",
+    "type": 123,
+    "game": "XXXXXX",
+    "name": "KP Game bài",
+    "mode": 1
+  },
+  "V8": {
+    "config": "API_1",
+    "type": 102,
+    "game": "XXXXXX",
+    "name": "V8 Game bài",
+    "mode": 1
+  },
+  "MG": {
+    "config": "API_1",
+    "type": 43,
+    "game": "XXXXXX",
+    "name": "MG Nổ hũ",
+    "mode": 1
+  },
+  "PP": {
+    "config": "API_1",
+    "type": 39,
+    "game": "XXXXXX",
+    "name": "PP Nổ hũ",
+    "mode": 1
+  },
+  "PTU": {
+    "config": "API_1",
+    "type": 111,
+    "game": "XXXXXX",
+    "name": "PTU Nổ hũ",
+    "mode": 1
+  },
+  "SA": {
+    "config": "API_1",
+    "type": 93,
+    "game": "XXXXXX",
+    "name": "SA Casino",
+    "mode": 1
+  },
+  "SB": {
+    "config": "API_1",
+    "type": 174,
+    "game": "XXXXXX",
+    "name": "SABA Thể Thao",
+    "mode": 1
+  },
+  "SBO": {
+    "config": "API_1",
+    "type": 54,
+    "game": "XXXXXX",
+    "name": "SBO Thể Thao",
+    "mode": 1
+  },
+  "SEX": {
+    "config": "API_1",
+    "type": 112,
+    "game": "XXXXXX",
+    "name": "SEX Casino",
+    "mode": 1
+  },
+  "WM": {
+    "config": "API_1",
+    "type": 118,
+    "game": "XXXXXX",
+    "name": "WM Casino",
+    "mode": 1
+  },
+  "SV3": {
+    "config": "API_1",
+    "type": 132,
+    "game": "XXXXXX",
+    "name": "SV3 Đá Gà",
+    "mode": 1
+  },
+  "TF": {
+    "config": "API_1",
+    "type": 99,
+    "game": "XXXXXX",
+    "name": "TF Nổ hũ",
+    "mode": 1
+  },
+  "UG2": {
+    "config": "API_1",
+    "type": 151,
+    "game": "XXXXXX",
+    "name": "UG2 Sport",
+    "mode": 1
+  },
+  "WS168": {
+    "config": "API_1",
+    "type": 202,
+    "game": "XXXXXX",
+    "name": "WS168 Đá gà",
+    "mode": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "entryPoint": "https://api.bestgate.pro/v1/payment/create-order",
+    "client_id": "67048be57f77f70c0bc9d3f4",
+    "client_secret": "b27054121fd2441d93da64a1ba082800244a025537a44393b49699a00c021c79",
+    "redirectUrl": "https://78968.com"
+}

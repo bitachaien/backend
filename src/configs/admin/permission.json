@@ -1,0 +1,286 @@
+[
+    {
+        "name": "Xem thống kê hệ thống",
+        "position": "view_cms_dashboard"
+    },
+    {
+        "name": "Xem biến động số dư người dùng",
+        "position": "view_app_user_balance_fluct"
+    },
+    {
+        "name": "Lấy danh sách người dùng",
+        "position": "view_app_user_list"
+    },
+    {
+        "name": "Xem thông tin người dùng",
+        "position": "view_app_user_info" 
+    },
+    {
+        "name": "Xóa người dùng",
+        "position": "delele_app_user"
+    },
+    {
+        "name": "Cập nhật thông tin người dùng",
+        "position": "update_app_user_info" 
+    },
+    {
+        "name": "Đổi mật khẩu người dùng",
+        "position": "change_password_app_user"
+    },
+    {
+        "name": "Xem lợi nhuận người dùng",
+        "position": "view_app_user_profit" 
+    },
+    {
+        "name": "Lấy danh sách ngân hàng nạp thụ động",
+        "position": "get_list_bank_app_user"
+    },
+    {
+        "name": "Cập nhật thông tin ngân hàng nạp thụ động",
+        "position": "update_list_bank_app_user"
+    },
+    {
+        "name": "Xóa thông tin ngân hàng nạp thụ động",
+        "position": "delete_list_bank_app_user"
+    },
+    {
+        "name": "Cập nhật số dư người dùng",
+        "position": "update_app_user_balance"
+    },
+    {
+        "name": "Tặng khuyến mãi",
+        "position": "create_app_user_incentive_donate"
+    },
+    {
+        "name": "Lấy danh sách người dùng đại lý",
+        "position": "view_app_agency_list"
+    },
+    {
+        "name": "Xóa người dùng đại lý",
+        "position": "delete_app_agency"
+    },
+    {
+        "name": "Cập nhật thông tin người dùng đại lý",
+        "position": "update_app_agency"
+    },
+    {
+        "name": "Xem doanh thu người dùng đại lý",
+        "position": "view_app_agency_profit"
+    },
+    {
+        "name": "Xem báo cáo doanh thu tổng đại lý",
+        "position": "get_app_agency_profit"
+    },
+    {
+        "name": "Đổi mật khẩu người dùng đại lý",
+        "position": "change_password_app_agency"
+    },
+    {
+        "name": "Xem tuyến dưới của người dùng đại lý",
+        "position": "get_app_agency_below_tree"
+    },
+    {
+        "name": "Xem tuyến hiện tại của người dùng đại lý",
+        "position": "get_app_agency_current_tree"
+    },
+    {
+        "name": "Lấy danh sách thông báo người dùng",
+        "position": "view_app_announcement_list"
+    },
+    {
+        "name": "Xóa danh sách thông báo người dùng",
+        "position": "delete_app_announcement_list"
+    },
+    {
+        "name": "Xem thông tin thông báo người dùng",
+        "position": "view_app_announcement_info"
+    },
+    {
+        "name": "Cập nhật thông tin thông báo người dùng",
+        "position": "update_app_announcement"
+    },
+    {
+        "name": "Tạo mới thông báo người dùng",
+        "position": "create_app_announcement"
+    },
+    {
+        "name": "Lấy danh sách ngân hàng nạp tiền thụ động",
+        "position": "view_app_bank_deposit_list"
+    },
+    {
+        "name": "Tạo mới ngân hàng nạp tiền thụ động",
+        "position": "create_app_bank_deposit"
+    },
+    {
+        "name": "Xóa ngân hàng nạp tiền thụ động",
+        "position": "delete_app_bank_deposit"
+    },
+    {
+        "name": "Lấy danh sách ngân hàng rút tiền cố định",
+        "position": "view_app_bank_withrdraw"
+    },
+    {
+        "name": "Lấy danh sách nạp thẻ cào",
+        "position": "view_app_deposit_card_list"
+    },
+    {
+        "name": "Xóa đơn nạp thẻ cào",
+        "position": "delete_app_deposit_card"
+    },
+    {
+        "name": "Xem đơn nạp thẻ cào",
+        "position": "view_app_deposit_card_info"
+    },
+    {
+        "name": "Cập nhật đơn nạp thẻ cào",
+        "position": "update_app_deposit_card"
+    },
+    {
+        "name": "Lấy danh sách nạp ngân hàng",
+        "position": "view_app_deposit_bank_list"
+    },
+    {
+        "name": "Xóa đơn nạp ngân hàng",
+        "position": "delete_app_deposit_bank"
+    },
+    {
+        "name": "Lấy thông tin đơn nạp ngân hàng",
+        "position": "view_app_deposit_bank_info"
+    },
+    {
+        "name": "Cập nhật đơn nạp ngân hàng",
+        "position": "update_app_deposit_bank"
+    },
+    {
+        "name": "Xem lịch sử cược trò chơi",
+        "position": "view_app_user_bet_history_list"
+    },
+    {
+        "name": "Xem lịch sử cược trò chơi của người dùng",
+        "position": "view_app_user_bet_history_by_user"
+    },
+    {
+        "name": "Xem số dư trò chơi của người dùng",
+        "position": "view_app_user_wallet_game_balance"
+    },
+    {
+        "name": "Xem danh sách hoàn trả cược",
+        "position": "view_app_user_bet_return_list"
+    },
+    {
+        "name": "Thu hồi số dư người dùng về tài khoản người dùng",
+        "position": "return_all_point_user_wallet"
+    },
+    {
+        "name": "Quản lý Mini Game",
+        "position": "view_mini_game"
+    },
+    {
+        "name": "Xem lịch sử tài xỉu",
+        "position": "view_taixiu_history_list"
+    },
+    {
+        "name": "Xem lịch sử xóc đĩa",
+        "position": "view_xocxoc_history_list"
+    },
+    {
+        "name": "Lấy danh sách tin nhắn người dùng",
+        "position": "view_app_message_list"
+    },
+    {
+        "name": "Xóa sách tin nhắn người dùng",
+        "position": "delete_app_message"
+    },
+    {
+        "name": "Xem thông tin tin nhắn người dùng",
+        "position": "view_app_message_info"
+    },
+    {
+        "name": "Cập nhật thông tin tin nhắn người dùng",
+        "position": "update_app_message_info"
+    },
+    {
+        "name": "Tạo mới tin nhắn người dùng",
+        "position": "create_app_message"
+    },
+    {
+        "name": "Xem danh sách khuyến mãi",
+        "position": "view_app_promotion_list"
+    },
+    {
+        "name": "Xóa danh sách khuyến mãi",
+        "position": "delete_app_promotion"
+    },
+    {
+        "name": "Xem thông tin khuyến mãi",
+        "position": "view_app_promotion_info"
+    },
+    {
+        "name": "Xem danh sách khuyến mãi đã đăng ký",
+        "position": "view_app_promotion_registered"
+    },
+    {
+        "name": "Cập nhật thông tin khuyến mãi",
+        "position": "update_app_promotion_info"
+    },
+    {
+        "name": "Tạo mới khuyến mãi",
+        "position": "create_app_promotion"
+    },
+    {
+        "name": "Cài đặt hệ thống",
+        "position": "cms_setting"
+    },
+    {
+        "name": "Cấu hình API trò chơi",
+        "position": "cms_setting_api"
+    },
+    {
+        "name": "Lấy danh sách rút tiền ngân hàng",
+        "position": "view_app_withdraw_list"
+    },
+    {
+        "name": "Xóa đơn rút tiền ngân hàng",
+        "position": "delete_app_withdraw_list"
+    },
+    {
+        "name": "Xem thông tin đơn rút tiền ngân hàng",
+        "position": "view_app_withdraw_info"
+    },
+    {
+        "name": "Cập nhật đơn rút tiền ngân hàng",
+        "position": "update_app_withdraw_info"
+    },
+    {
+        "name": "Xem danh sách tài khoản quản trị",
+        "position": "view_cms_account_list"
+    },
+    {
+        "name": "Xem thông tin tài khoản quản trị",
+        "position": "view_cms_account_info"
+    },
+    {
+        "name": "Cập nhật thông tin tài khoản quản trị",
+        "position": "update_cms_account"
+    },
+    {
+        "name": "Cập nhật quyền hạn tài khoản quản trị",
+        "position": "update_cms_account_permission"
+    },
+    {
+        "name": "Tạo mới tài khoản quản trị",
+        "position": "create_cms_account"
+    },
+    {
+        "name": "Thay đổi mật khẩu tài khoản quản trị",
+        "position": "change_password_cms_account"
+    },
+    {
+        "name": "Xóa tài khoản quản trị",
+        "position": "delete_cms_account"
+    },
+    {
+        "name": "Nhận thông báo đẩy",
+        "position": "push_notification"
+    }
+]

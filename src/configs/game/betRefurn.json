@@ -1,0 +1,50 @@
+{
+    "BET_100000000": {
+        "RNG": 2.00,
+        "FISH": 2.00,
+        "PVP": 1.50,
+        "LIVE": 0.80,
+        "SPORTS": 1.20,
+        "COCKFIGHT": 1.50
+    },
+    "BET_50000000": {
+        "RNG": 1.80,
+        "FISH": 1.80,
+        "PVP": 1.30,
+        "LIVE": 0.70,
+        "SPORTS": 1.00,
+        "COCKFIGHT": 1.20
+    },
+    "BET_10000000": {
+        "RNG": 1.60,
+        "FISH": 1.60,
+        "PVP": 1.20,
+        "LIVE": 0.60,
+        "SPORTS": 0.90,
+        "COCKFIGHT": 0.90
+    },
+    "BET_5000000": {
+        "RNG": 1.50,
+        "FISH": 1.50,
+        "PVP": 1.10,
+        "LIVE": 0.50,
+        "SPORTS": 0.80,
+        "COCKFIGHT": 0.80
+    },
+    "BET_1000000": {
+        "RNG": 1.40,
+        "FISH": 1.40,
+        "PVP": 1.00,
+        "LIVE": 0.45,
+        "SPORTS": 0.70,
+        "COCKFIGHT": 0.70
+    },
+    "BET_LESS_1000000": {
+        "RNG": 1.30,
+        "FISH": 1.30,
+        "PVP": 0.90,
+        "LIVE": 0.40,
+        "SPORTS": 0.60,
+        "COCKFIGHT": 0.60
+    }
+}
