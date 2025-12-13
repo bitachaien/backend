@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "db_78968_dev",
+    "username": "db_789bet_dev",
     "password": "123123123@Aa",
-    "database": "db_78968_dev",
+    "database": "db_789bet_dev",
     "host": "103.77.215.81",
     "dialect": "mysql"
   },

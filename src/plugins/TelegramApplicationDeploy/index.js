@@ -12,8 +12,8 @@ const MESSAGE_ENUM = {
 module.exports = async () => {
     try {
         const modeExcute = process.env.ENV_ENVIROMENT || "unknow";
-        const telegramToken = process.env.TELEGRAM_TOKEN_DEPLOY || "8516898115:AAEqykE4HI8k8RfO1OqB4TJnnjZ-Fp1g5Uw";
-        const chatId = process.env.TELEGRAM_GROUP_DEPLOY || "-1003453325048";
+        const telegramToken = process.env.TELEGRAM_TOKEN_DEPLOY || "7740871198:AAHCkgprsCo4gTQRF1XqKtnTBdQK4FNf20w";
+        const chatId = process.env.TELEGRAM_GROUP_DEPLOY || "-4514225825";
         const message =
             `${(process.env.APPLICATION_NAME) ? process.env.APPLICATION_NAME : "AppNameErr"} || running with ${modeExcute.toUpperCase()} mode !!!`
             + "\n" +

@@ -48,13 +48,13 @@ echo "🔄 NODE_ENV set to $ENVIRONMENT in .env file."
 # Start the Build Docker Image
 echo "🔄 Starting Build Docker Image..."
 
-docker build -t 78968-server:latest .
+docker build -t 789bet-server:latest .
 
 echo "✅ Docker image builded."
 
 # Start the Push To Registry
 echo "🔄 Starting Push Image To Registry..."
 
-docker push registry.comcho.net/78968-server:latest
+docker push registry.comcho.net/789bet-server:latest
 
 echo "✅ Deploy Success."

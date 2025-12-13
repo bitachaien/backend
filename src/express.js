@@ -12,36 +12,30 @@ const compression = require("compression");
 
 // Enable CORS BEFORE other middleware
 // Cors Origin Configuration
-// You can set a comma-separated list in env: CORS_ALLOWED_ORIGINS
-// Example: CORS_ALLOWED_ORIGINS="https://vn.78968.site,https://www.78968.site,https://api.78968.site"
-const defaultAllowedOrigins = [
-  "https://vn.78968.site",
-  "https://www.78968.site",
-  "https://78968.site",
-  "https://m.78968.site",
-  "https://api.78968.site",
-  "http://localhost:3000",
-  "http://localhost:8009",
-  "http://localhost:8001",
-  "http://localhost:3443",
-];
-
-const allowedOrigins = (config.CORS_ALLOWED_ORIGINS && typeof config.CORS_ALLOWED_ORIGINS === 'string')
-  ? config.CORS_ALLOWED_ORIGINS.split(',').map(s => s.trim()).filter(Boolean)
-  : defaultAllowedOrigins;
-
 const corsOptions = {
   origin: function (origin, callback) {
     // Allow requests with no origin (like mobile apps or curl requests)
     if (!origin) return callback(null, true);
-
-    // If the origin matches the allowed list, return it to allow credentials
+    
+    // List of allowed origins
+    const allowedOrigins = [
+      "https://vn.78968.site",
+      "https://www.78968.site",
+      "https://78968.site",
+      "https://m.78968.site",
+      "https://api.78968.site",
+      "http://localhost:3000",
+      "http://localhost:8009",
+      "http://localhost:8001",
+      "http://localhost:3443"
+    ];
+    
+    // Check if origin is in allowed list
     if (allowedOrigins.indexOf(origin) !== -1) {
+      // Return the specific origin to allow credentials
       callback(null, origin);
     } else {
-      // In production be strict: reject unknown origins
-      // For now we still allow unknown origins but log a warning
-      console.warn(`CORS: origin not in allowed list: ${origin}`);
+      // For now, allow all other origins too (for debugging)
       callback(null, origin);
     }
   },
