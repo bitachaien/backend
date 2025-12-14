@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "db_789bet_dev",
-    "password": "123123123@Aa",
-    "database": "db_789bet_dev",
-    "host": "103.77.215.81",
+    "username": "admin",
+    "password": "Noname@2022",
+    "database": "cgame",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
