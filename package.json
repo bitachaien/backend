@@ -75,7 +75,7 @@
     "qs": "^6.11.0",
     "sequelize": "^6.25.3",
     "sequelize-cli": "^6.6.2",
-    "simple-git": "^3.27.0",
+    "simple-git": "^3.36.0",
     "socket.io": "^4.6.1",
     "svg-captcha": "^1.4.0",
     "svg-to-img": "^2.0.9",
